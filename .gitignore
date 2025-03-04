@@ -1,0 +1,9 @@
+#files
+*.DS_Store
+*.zip
+
+
+#directories
+.ipynb_checkpoints/
+env/
+cache/
